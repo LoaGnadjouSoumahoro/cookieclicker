@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 import { copy } from "vite-plugin-copy";
 
 export default defineConfig({
-  base: "/cookieclicker/",
+  base: "/testcookie/",
   root: path.resolve(__dirname, "src"),
   resolve: {
     alias: {
