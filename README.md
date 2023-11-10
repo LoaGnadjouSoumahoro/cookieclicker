@@ -1,12 +1,16 @@
-# 🍪 PiggyClicker
+# 🤑 PiggyClicker
 
-SEE PROJECT [Link](https://chickenroast.github.io/cookieclicker/)
+SEE PROJECT [Link]()
 
 Project start : 23/10/2023
 
 Project end : 29/10/2023
 
-![image](https://github.com/Chickenroast/cookieclicker/assets/60290487/619cac50-bdf1-4681-b044-3a2d9335307e)
+![image](src/images/CookieClieker.png)
+
+## Description of d-the game
+
+PiggyClicker is a game that allows you to win by clicking on the pig. The different bonuses allow you to multiply your winnings.
 
 - inspiration :
   [Link text Here](https://dribbble.com/shots/6474110-Mobile-App-for-Retailers-and-Contractors-Clicker-App-Design/attachments/6474110-Mobile-App-for-Retailers-and-Contractors-Clicker-App-Design?mode=media)
@@ -31,4 +35,3 @@ The game have 3 bottons can encrase your score, but carrefull they have a cost.
 ⏱️Game time : 3 minutes
 🏆Encrase your score : clic on the Dollar for win and dont forget the bonus.
 🎁You have 2 score one of your clic and one with the bonus for shopping.
-
